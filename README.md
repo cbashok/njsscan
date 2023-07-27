@@ -169,7 +169,7 @@ app.get('/some/redirect', function (req, res) {
 
 ## CI/CD Integrations
 
-You can enable njsscan in your CI/CD or DevSecOps pipelines.
+You can enable njsscan in your CI/CD or DevSecOps pipelines. test
 
 #### Github Action
 
